@@ -14,11 +14,12 @@ $ python run.py
 $ python freeze.py
 ```
 
-<!-- site live page link here-->
+# live site [here][live_site]
 
 ## License
 Licensed under the [WTFPL][].
 
+[live_site]: https://gokulmenon.github.io/beta/
 [article]: http://www.stevenloria.com/hosting-static-flask-sites-for-free-on-github-pages/
 [example]: http://stevenloria.com/flask-ghpages-example
 [Flask]: http://flask.pocoo.org/
