@@ -19,7 +19,7 @@ $ python freeze.py
 ## License
 Licensed under the [WTFPL][].
 
-[live_site]: https://gokulmenon.github.io/beta/
+[live_site]: https://gokulmenon.github.io/gokulmenon/
 [article]: http://www.stevenloria.com/hosting-static-flask-sites-for-free-on-github-pages/
 [example]: http://stevenloria.com/flask-ghpages-example
 [Flask]: http://flask.pocoo.org/

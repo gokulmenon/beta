@@ -2,7 +2,7 @@
 
 import os
 
-REPO_NAME = "beta"  # Used for FREEZER_BASE_URL
+REPO_NAME = "gokulmenon"  # Used for FREEZER_BASE_URL
 DEBUG = True
 
 # Assumes the app is located in the same directory
