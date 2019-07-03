@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block content %}
+<br />
+<h4> work in progress</h4>
+
+<br />
+<p>Coming soon, some stuff here....</p>
+<br />
+<br />
+<h2>Posts</h2>
+
+<ul class="page-list">
+  {% for page in pages %}
+      <li><a href="{{ url_for('page', path=page.path) }}">
+          {{ page.meta.title }}
+      </a>- {{ page.meta.date }}</li>
+  {% endfor %}
+</ul>
+{% endblock %}
